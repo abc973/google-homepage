@@ -4,7 +4,9 @@ From The Odin Project's [curriculum](http://www.theodinproject.com/web-developme
 
 Deconstruct an existing web page and rebuild it.
 
- - Use browser development tools.
- - Use linux kernel to move within and create local repositories.
- - Use git kernel syntax to utilise git and github.
- -
+ - Use web development tools.
+ - Familiarise myself with the teminal.
+ - Use terminal commands to navigate, modify and utilise the system.
+ - Use git terminal commands to utilise git and github.
+ - Use HTML and CSS to recreate the Google search webpage.
+ - 
